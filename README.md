@@ -1,17 +1,23 @@
 # Jochen Hornung
 
-**Builder · Berlin** — ich baue Dinge, die ich fühle.
+**AI Enablement · Claude Code, Skills & MCP · Workshops & Training** — Berlin
 
-Websites und kleine Produkte: eine Datei, kein Framework-Ballast, schnell und fühlbar.
-Stack: HTML/CSS/JS · Eleventy · Cloudflare Pages.
+I build with AI every day – and I get teams to actually use it.
 
-## Projekte
+→ Portfolio with live demos: **[jochenhornung.de/work](https://jochenhornung.de/work)**
 
-- 🧘 [m-sphere](https://github.com/s0f4surf3r/m-sphere) — interaktive Meditations-Schneekugel (Web + iOS) · [live](https://msphere.jochenhornung.de)
-- 🕹️ [j-thrust-cmpa](https://github.com/s0f4surf3r/j-thrust-cmpa) — Retro-Gravitationsspiel, inspiriert vom C64-Klassiker Thrust
-- 🛠️ [humanthrust](https://github.com/s0f4surf3r/humanthrust) — Claude-Code-Plugin für humanes Handwerk (Apache-2.0)
-- 🎨 Kunden-Websites: [R+P Lackierung](https://rp-lackierung.pages.dev) u.a. — Design nach eigener Wahrnehmungsgrammatik
+## Open source
 
-## Schreiben
+- 🛠️ **[humanthrust](https://github.com/s0f4surf3r/humanthrust)** — a small Claude Code plugin: four craft skills plus a `UserPromptSubmit` hook that re-injects honest-inference rules on every prompt, because a skill alone can be forgotten as the context grows. Apache-2.0.
 
-Essays über Menschsein & Technologie auf [jochenhornung.de](https://jochenhornung.de)
+## Selected work (demos, code not public)
+
+- **jobscout** — agentic AI for the job search. Ten Claude agent roles run headless with split permissions: agents that know the user have no web access, agents on the web never see private data. A `PreToolUse` hook blocks sending; nothing goes out without a human sign-off. [Demo with invented data](https://jobscout-demo.pages.dev)
+- **Mein Steuerberater** — RAG over official guidance on one German tax rule; a second model checks every claim against the cited sources before an answer is shown. [Demo](https://mein-steuerberater.pages.dev)
+- **Chat assistant for [zoebarossi.com](https://zoebarossi.com)** — answers only from maintained knowledge, admits gaps and hands the case over to the site owner.
+
+## How I work
+
+Take a process apart and start with the people who do it every day. Build the smallest testable piece and check it against real data. Say early where I stand – and what I don't know yet.
+
+📫 [hornung.jochen@googlemail.com](mailto:hornung.jochen@googlemail.com) · [LinkedIn](https://www.linkedin.com/in/jochenhornung)
