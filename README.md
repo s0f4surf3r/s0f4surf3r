@@ -1,8 +1,8 @@
 # Jochen Hornung
 
-**AI Enablement · Claude Code, Skills & MCP · Workshops & Training** — Berlin
+**AI Enablement · Agent systems with Claude Code · Workshops & Training** — Berlin
 
-I build with AI every day – and I get teams to actually use it.
+I build agent systems with guardrails in code – and I get teams to actually use them.
 
 → Portfolio with live demos: **[jochenhornung.de/work](https://jochenhornung.de/work)**
 
